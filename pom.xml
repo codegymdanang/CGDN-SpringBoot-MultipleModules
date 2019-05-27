@@ -6,6 +6,11 @@
 
     <modules>
         <module>demo-web</module>
+        <module>demo-dao</module>
+        <module>demo-webservice</module>
+        <module>demo-common</module>
+        <module>demo-configure</module>
+        <module>demo-business-service</module>
     </modules>
 
     <parent>
