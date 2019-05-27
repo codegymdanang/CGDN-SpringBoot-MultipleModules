@@ -11,5 +11,13 @@
 
     <artifactId>demo-business-service</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>codegymdanang</groupId>
+            <artifactId>demo-dao</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+    </dependencies>
 
 </project>
